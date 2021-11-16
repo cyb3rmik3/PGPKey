@@ -3,6 +3,7 @@ Interested in sending something confidential? You may drop me a line at michalis
 
 ### PGP Key
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGGTw0oBDADRP0lluTJy770/wlUgNZp8qe8Pq97DkfOYxBGYTJzDPVmX8ErZ
@@ -44,3 +45,4 @@ EMo75FCSVEWTij45qrnQUzW0had8EPWO1kSKyGai1XRuPHLd7dOcQpFGasAGzrNQ
 +48w3LzOrH6oDHCiJ3WswB7aEvqVksarVG1gRukjxj8K
 =0ES0
 -----END PGP PUBLIC KEY BLOCK-----
+```
