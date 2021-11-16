@@ -5,6 +5,13 @@ Interested in sending something confidential? You may drop me a line at michalis
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User-ID:	Michalis Michalos <michalis@michalos.net>
+Comment: Created:	16/11/2021 4:42 μμ
+Comment: Expires:	16/11/2031 12:00 μμ
+Comment: Type:	3.072-bit RSA (secret key available)
+Comment: Usage:	Signing, Encryption, Certifying User-IDs
+Comment: Fingerprint:	7BB09B1D37BABE84FAA46906A2618E6EFF05396C
+
 
 mQGNBGGTw0oBDADRP0lluTJy770/wlUgNZp8qe8Pq97DkfOYxBGYTJzDPVmX8ErZ
 R2XBMbwntwzb2A/gkX41y7v1d6r15Oy4rCWVdbJwiBcLeIWpYXfqRQLQlggNNMhf
