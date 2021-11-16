@@ -1,5 +1,5 @@
 # PGPKey
-Interested in sending something confidential? You may drop me a line at michalis -at- michalos.net using this PGP key or ancrypt any file and forward it.
+Interested in sending something confidential? You may drop me a line at michalis -at- michalos.net using this PGP key or encrypt any file and forward it.
 
 ### PGP Key
 
