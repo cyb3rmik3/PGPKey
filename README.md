@@ -46,3 +46,9 @@ EMo75FCSVEWTij45qrnQUzW0had8EPWO1kSKyGai1XRuPHLd7dOcQpFGasAGzrNQ
 =0ES0
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+### Tools
+
+- [Gpg4win](https://www.gpg4win.org/download.html)
+- [Kleopatra - OpenPGP](https://www.openpgp.org/software/kleopatra/)
+- [Encryptomatic OpenPGP](https://www.encryptomatic.com/openpgp/)
